@@ -67,10 +67,10 @@ All environment variables supported by Sensei.
 
 | Variable              | Description         | Default               |
 | --------------------- | ------------------- | --------------------- |
-| `SENSEI_LLM_PROVIDER` | LLM provider        | `openai`              |
+| `SENSEI_LLM_PROVIDER` | LLM provider        | `anthropic`           |
+| `ANTHROPIC_API_KEY`   | Anthropic API key   | (required for Anthropic) |
 | `OPENAI_API_KEY`      | OpenAI API key      | (required for OpenAI) |
-| `ANTHROPIC_API_KEY`   | Anthropic API key   | (required for Claude) |
-| `SENSEI_LLM_MODEL`    | Model to use        | `gpt-4-turbo`         |
+| `SENSEI_LLM_MODEL`    | Model to use        | `claude-sonnet-4-20250514` |
 | `SENSEI_LLM_ENDPOINT` | Custom LLM endpoint | (provider default)    |
 
 ---
