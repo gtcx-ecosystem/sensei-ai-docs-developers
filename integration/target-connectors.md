@@ -1,3 +1,7 @@
+---
+description: Supported target database adapters
+---
+
 # Target Connectors
 
 ## Connecting to Your Target Databases

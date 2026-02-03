@@ -1,3 +1,7 @@
+---
+description: Latency, throughput, and capacity
+---
+
 # Performance
 
 ## Latency, Throughput, and Capacity

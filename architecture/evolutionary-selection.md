@@ -1,3 +1,7 @@
+---
+description: Genetic optimization of strategies
+---
+
 # Evolutionary Selection
 
 ## Automated Strategy Optimization

@@ -1,3 +1,7 @@
+---
+description: Schema structure extraction
+---
+
 # Structural Analysis
 
 ## Phase 1: Cataloging What Exists

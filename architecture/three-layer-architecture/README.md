@@ -1,4 +1,5 @@
 ---
+description: Cognitive, execution, and meta layers
 icon: sitemap
 ---
 

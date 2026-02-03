@@ -1,3 +1,7 @@
+---
+description: SQL dialect conversion tables
+---
+
 # SQL Translations
 
 ## Dialect-Specific SQL Conversions

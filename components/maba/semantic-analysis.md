@@ -1,3 +1,7 @@
+---
+description: LLM-powered meaning extraction
+---
+
 # Semantic Analysis
 
 ## Semantic Data Understanding

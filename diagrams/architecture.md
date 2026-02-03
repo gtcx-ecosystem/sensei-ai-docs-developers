@@ -1,3 +1,7 @@
+---
+description: System architecture visual overview
+---
+
 ## System Architecture
 
 High-level view of the Sensei platform, organized into five layers: client interfaces, the API gateway, core gRPC services, supporting microservices, and the data/external layer. Arrows indicate the primary communication paths between components.

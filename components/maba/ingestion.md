@@ -1,3 +1,7 @@
+---
+description: Source schema ingestion pipeline
+---
+
 # Ingestion Pipeline
 
 ## 50+ Formats, One Normalized Output

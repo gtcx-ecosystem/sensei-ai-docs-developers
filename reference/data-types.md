@@ -1,3 +1,7 @@
+---
+description: Cross-database type mappings
+---
+
 # Data Type Mappings
 
 ## Cross-Database Type Conversions

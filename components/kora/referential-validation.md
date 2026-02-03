@@ -1,3 +1,7 @@
+---
+description: Foreign key and constraint verification
+---
+
 # Referential Validation
 
 ## Are All the Relationships Intact?

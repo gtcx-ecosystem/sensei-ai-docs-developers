@@ -1,3 +1,7 @@
+---
+description: Meaning-level correctness testing
+---
+
 # Semantic Validation
 
 ## Does the Data Make Business Sense?

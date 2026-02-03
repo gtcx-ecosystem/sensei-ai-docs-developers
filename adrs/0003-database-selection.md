@@ -1,3 +1,7 @@
+---
+description: PostgreSQL, Redis, and Neo4j choices
+---
+
 # ADR 0003: Database Selection
 
 ## Status

@@ -1,3 +1,7 @@
+---
+description: Code examples and common patterns
+---
+
 # Integration Examples
 
 ## Complete Working Examples

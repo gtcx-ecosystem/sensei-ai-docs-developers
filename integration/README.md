@@ -1,3 +1,7 @@
+---
+description: APIs, SDKs, and connectors overview
+---
+
 # Integration
 
 ## Connecting Sensei to Your World

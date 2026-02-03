@@ -1,3 +1,7 @@
+---
+description: Offline and limited-connectivity deployments
+---
+
 # Edge & Offline Deployment
 
 ## Migration Intelligence Without the Cloud

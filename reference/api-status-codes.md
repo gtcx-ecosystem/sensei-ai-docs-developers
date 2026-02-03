@@ -1,3 +1,7 @@
+---
+description: HTTP status codes and meanings
+---
+
 # API Status Codes
 
 ## HTTP Response Codes

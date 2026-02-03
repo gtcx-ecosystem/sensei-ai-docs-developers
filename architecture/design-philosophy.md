@@ -1,3 +1,7 @@
+---
+description: Core principles behind Sensei's design
+---
+
 # Design Philosophy
 
 ## Foundational Design Principles

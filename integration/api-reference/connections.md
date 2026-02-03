@@ -1,3 +1,7 @@
+---
+description: Database connection management
+---
+
 # Connections API
 
 ## Manage Database Connections

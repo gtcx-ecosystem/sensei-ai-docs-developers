@@ -1,3 +1,7 @@
+---
+description: Source and target database connectors
+---
+
 # Connectors
 
 ## Universal Data Connectivity

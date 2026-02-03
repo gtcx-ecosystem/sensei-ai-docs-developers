@@ -1,3 +1,7 @@
+---
+description: Data journey through Sensei
+---
+
 # Data Flow
 
 ## Data Journey Through Sensei

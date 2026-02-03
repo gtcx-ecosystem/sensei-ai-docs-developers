@@ -1,3 +1,7 @@
+---
+description: Column data profiling and statistics
+---
+
 # Statistical Analysis
 
 ## Data Profiling and Statistics

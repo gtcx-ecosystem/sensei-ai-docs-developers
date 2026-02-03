@@ -1,3 +1,7 @@
+---
+description: Python and TypeScript client libraries
+---
+
 # SDKs
 
 ## Official Client Libraries

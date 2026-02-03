@@ -1,4 +1,5 @@
 ---
+description: Production infrastructure components
 icon: desktop-arrow-down
 ---
 

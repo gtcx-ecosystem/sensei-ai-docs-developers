@@ -1,3 +1,7 @@
+---
+description: Behavioral equivalence protocol
+---
+
 # RFC 0002: Verification Protocol
 
 ## Summary

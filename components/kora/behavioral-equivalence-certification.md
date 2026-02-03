@@ -1,3 +1,7 @@
+---
+description: Cryptographic proof of correctness
+---
+
 # Behavioral Equivalence Certification
 
 ## Cryptographic Migration Proof

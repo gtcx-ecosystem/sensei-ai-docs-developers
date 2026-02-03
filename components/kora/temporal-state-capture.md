@@ -1,3 +1,7 @@
+---
+description: Recording source system history
+---
+
 # Temporal State Capture
 
 ## Capturing Source History

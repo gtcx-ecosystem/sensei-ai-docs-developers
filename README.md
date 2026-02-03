@@ -1,3 +1,7 @@
+---
+description: Build with and extend the Sensei platform
+---
+
 # Developers
 
 ## Build with Sensei

@@ -1,3 +1,7 @@
+---
+description: Migration correctness verification agents
+---
+
 # Validator Agents
 
 ## Trust, But Verify — Continuously

@@ -1,3 +1,7 @@
+---
+description: How agents coordinate and communicate
+---
+
 # Agent Communication Protocol
 
 ## Agent Coordination Protocol

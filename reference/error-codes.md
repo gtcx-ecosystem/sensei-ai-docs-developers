@@ -1,3 +1,7 @@
+---
+description: Error codes and resolution steps
+---
+
 # Error Codes
 
 ## Error Code Reference and Solutions

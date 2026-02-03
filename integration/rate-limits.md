@@ -1,3 +1,7 @@
+---
+description: Request quotas and throttling
+---
+
 # Rate Limits
 
 ## API Quotas and Throttling

@@ -1,3 +1,7 @@
+---
+description: Data distribution validation
+---
+
 # Statistical Validation
 
 ## Do the Numbers Still Add Up?

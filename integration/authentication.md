@@ -1,3 +1,7 @@
+---
+description: Authentication implementation guide
+---
+
 # Authentication
 
 ## Securing Access to the Sensei Platform

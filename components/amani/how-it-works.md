@@ -1,3 +1,7 @@
+---
+description: AMANI support interface internals
+---
+
 # How AMANI Works
 
 ## Message to Action to Response

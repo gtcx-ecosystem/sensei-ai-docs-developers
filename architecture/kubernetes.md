@@ -1,3 +1,7 @@
+---
+description: Kubernetes-native deployment
+---
+
 # Kubernetes Deployment
 
 ## Production-Grade Container Orchestration

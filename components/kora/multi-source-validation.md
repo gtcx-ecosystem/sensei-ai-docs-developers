@@ -1,3 +1,7 @@
+---
+description: Cross-referencing independent evidence
+---
+
 # Multi-Source Validation
 
 ## Five Perspectives, One Verdict

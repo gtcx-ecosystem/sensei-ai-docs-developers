@@ -1,3 +1,7 @@
+---
+description: Conflict-free replicated data types
+---
+
 # CRDT Synchronization
 
 ## Merging Offline Work Without Conflicts

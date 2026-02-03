@@ -1,3 +1,7 @@
+---
+description: Tracking information disclosure
+---
+
 # Privacy Budget Accounting
 
 ## Information Disclosure Tracking

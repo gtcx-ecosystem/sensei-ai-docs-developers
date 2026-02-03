@@ -1,3 +1,7 @@
+---
+description: Learning without sharing raw data
+---
+
 # Federated Pattern Extraction
 
 ## Your Data Never Leaves Your Network

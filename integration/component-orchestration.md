@@ -1,3 +1,7 @@
+---
+description: Cross-component coordination
+---
+
 # Component Orchestration
 
 ## How MABA, KORA, and AMANI Work Together

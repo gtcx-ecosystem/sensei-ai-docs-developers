@@ -1,3 +1,7 @@
+---
+description: Learning, optimizing, and evolving
+---
+
 # L3: Meta Agents
 
 ## Learning, Optimizing, Evolving

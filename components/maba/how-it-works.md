@@ -1,3 +1,7 @@
+---
+description: MABA transformation engine internals
+---
+
 # How MABA Works
 
 ## Raw Data to Transformed Records

@@ -1,3 +1,7 @@
+---
+description: Real-time agent messaging
+---
+
 # Agent Communication
 
 ## Real-Time Agent Communication

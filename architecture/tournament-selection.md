@@ -1,3 +1,7 @@
+---
+description: Competitive strategy evolution
+---
+
 # Evolutionary Tournament Selection
 
 ## Self-Evolving Migration Strategies

@@ -1,3 +1,7 @@
+---
+description: Supported source database adapters
+---
+
 # Source Connectors
 
 ## Connecting to Your Source Databases

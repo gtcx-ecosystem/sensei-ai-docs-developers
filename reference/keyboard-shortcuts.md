@@ -1,3 +1,7 @@
+---
+description: Dashboard keyboard shortcuts
+---
+
 # Keyboard Shortcuts
 
 ## Dashboard Keyboard Navigation

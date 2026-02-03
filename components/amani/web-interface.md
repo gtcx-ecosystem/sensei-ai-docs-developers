@@ -1,3 +1,7 @@
+---
+description: Browser-based migration dashboard
+---
+
 # Web Interface
 
 ## The Full Experience

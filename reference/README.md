@@ -1,3 +1,7 @@
+---
+description: Configuration and lookup tables
+---
+
 # Appendix
 
 ## Technical Reference Materials

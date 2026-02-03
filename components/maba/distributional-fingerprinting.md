@@ -1,3 +1,7 @@
+---
+description: Statistical profiles for semantic matching
+---
+
 # Distributional Fingerprinting
 
 ## A Statistical Portrait of Every Column

@@ -1,3 +1,7 @@
+---
+description: KORA verification engine internals
+---
+
 # How KORA Works
 
 ## Source to Verification Certificate

@@ -1,3 +1,7 @@
+---
+description: Three-layer agent architecture overview
+---
+
 # Overview
 
 ## Compound Intelligence Architecture

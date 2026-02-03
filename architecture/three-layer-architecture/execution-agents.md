@@ -1,3 +1,7 @@
+---
+description: Executing, recovering, and scaling
+---
+
 # L2: Execution Agents
 
 ## Executing, Recovering, Scaling

@@ -1,3 +1,7 @@
+---
+description: Language model reasoning for schemas
+---
+
 # LLM Semantic Inference
 
 ## LLM-Powered Schema Reasoning

@@ -1,3 +1,7 @@
+---
+description: Privacy-preserving pattern search
+---
+
 # Homomorphic Pattern Matching
 
 ## Privacy-Preserving Search

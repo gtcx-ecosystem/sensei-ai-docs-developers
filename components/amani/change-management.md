@@ -1,3 +1,7 @@
+---
+description: Guiding users through migration
+---
+
 # Change Management and User Adoption
 
 ## Guiding Users Through Change

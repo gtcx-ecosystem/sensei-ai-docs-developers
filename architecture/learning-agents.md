@@ -1,3 +1,7 @@
+---
+description: Pattern extraction and knowledge agents
+---
+
 # Learning Agents
 
 ## Durable Intelligence Extraction

@@ -1,3 +1,7 @@
+---
+description: Why we chose a monorepo structure
+---
+
 # ADR 0001: Monorepo Structure
 
 ## Status

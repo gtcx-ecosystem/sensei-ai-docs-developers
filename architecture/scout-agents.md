@@ -1,3 +1,7 @@
+---
+description: Discovery and schema analysis agents
+---
+
 # Scout Agents
 
 ## Understanding Before Changing

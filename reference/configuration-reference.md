@@ -1,3 +1,7 @@
+---
+description: All configuration options
+---
+
 # Configuration Reference
 
 ## Complete Configuration Options

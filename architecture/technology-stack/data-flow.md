@@ -1,3 +1,7 @@
+---
+description: End-to-end data path through Sensei
+---
+
 # Data Flow
 
 ## Data Path Through the Pipeline

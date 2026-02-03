@@ -1,3 +1,7 @@
+---
+description: Production deployment patterns
+---
+
 # Deployment Architecture
 
 ## Cloud-Agnostic Deployment

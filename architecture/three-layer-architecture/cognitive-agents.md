@@ -1,3 +1,7 @@
+---
+description: Understanding, planning, and designing
+---
+
 # L1: Cognitive Agents
 
 ## Understanding, Planning, Designing

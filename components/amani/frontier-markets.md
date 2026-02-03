@@ -1,3 +1,7 @@
+---
+description: Low-bandwidth and offline environments
+---
+
 # Frontier Markets
 
 ## Serving Where Others Can't — Or Won't

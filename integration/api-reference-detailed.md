@@ -1,3 +1,7 @@
+---
+description: Complete API endpoint reference
+---
+
 # API Reference
 
 ## Sensei Platform API

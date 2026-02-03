@@ -1,3 +1,7 @@
+---
+description: Redundancy and failover guarantees
+---
+
 # High Availability
 
 ## Continuous Operation Guarantees

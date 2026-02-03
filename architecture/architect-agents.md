@@ -1,3 +1,7 @@
+---
+description: Migration strategy planning agents
+---
+
 # Architect Agents
 
 ## From Understanding to Executable Plan

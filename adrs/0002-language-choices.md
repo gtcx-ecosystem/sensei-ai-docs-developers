@@ -1,3 +1,7 @@
+---
+description: TypeScript, Python, and Rust rationale
+---
+
 # ADR 0002: Language Choices
 
 ## Status

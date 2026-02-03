@@ -1,3 +1,7 @@
+---
+description: Command-line interface reference
+---
+
 # CLI
 
 ## Command-Line Interface

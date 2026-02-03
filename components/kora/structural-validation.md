@@ -1,3 +1,7 @@
+---
+description: Schema structure correctness checks
+---
+
 # Structural Validation
 
 ## Did the Schema Migrate Correctly?

@@ -1,3 +1,7 @@
+---
+description: Distributed learning across migrations
+---
+
 # In-Migration Swarm Learning
 
 ## Collective Intelligence in Milliseconds

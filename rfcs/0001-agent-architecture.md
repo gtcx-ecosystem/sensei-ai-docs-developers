@@ -1,3 +1,7 @@
+---
+description: Three-layer agent system proposal
+---
+
 # RFC 0001: Agent Architecture
 
 ## Summary

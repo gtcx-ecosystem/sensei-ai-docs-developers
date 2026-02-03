@@ -1,3 +1,7 @@
+---
+description: REST API endpoints and usage
+---
+
 # API Reference
 
 ## Sensei REST API v1

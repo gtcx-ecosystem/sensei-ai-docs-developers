@@ -1,3 +1,7 @@
+---
+description: Encryption, access control, and compliance
+---
+
 # Security Architecture
 
 ## Protection, Access, and Compliance

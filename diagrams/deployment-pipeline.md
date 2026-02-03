@@ -1,3 +1,7 @@
+---
+description: CI/CD and deployment flow
+---
+
 ## CI/CD Pipeline
 
 The Sensei CI/CD pipeline begins with change detection on pull requests, routing work into language-specific build tracks (TypeScript, Python, Rust, Protobuf). All tracks converge on integration tests backed by Postgres and Redis service containers, followed by a Trivy security scan. Merges to main trigger Docker image builds, and version tags drive Helm-based deployment through staging and production.

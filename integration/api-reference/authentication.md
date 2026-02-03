@@ -1,3 +1,7 @@
+---
+description: API keys, OAuth, and JWT tokens
+---
+
 # Authentication
 
 ## Securing Your Sensei Integration

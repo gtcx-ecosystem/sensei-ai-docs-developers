@@ -1,3 +1,7 @@
+---
+description: Mathematical privacy guarantees
+---
+
 # Differential Privacy
 
 ## Mathematical Privacy Guarantees

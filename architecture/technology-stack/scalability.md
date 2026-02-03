@@ -1,3 +1,7 @@
+---
+description: Horizontal scaling and performance
+---
+
 # Scalability
 
 ## Scaling Strategy and Performance
