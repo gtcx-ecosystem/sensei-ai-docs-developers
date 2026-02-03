@@ -1,6 +1,6 @@
 # L2: Execution Agents
 
-## The Doers — Executing, Recovering, Validating, Scaling
+## Executing, Recovering, Scaling
 
 Execution Agents implement the plans produced by Cognitive Agents. They're optimized for throughput and resilience, using smaller models that can process millions of records while autonomously handling errors, optimizing resources, and validating results in real-time.
 

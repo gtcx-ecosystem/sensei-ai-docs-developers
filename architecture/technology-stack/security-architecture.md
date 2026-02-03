@@ -1,6 +1,6 @@
 # Security Architecture
 
-## Data Protection, Access Control, and Compliance Controls
+## Protection, Access, and Compliance
 
 This document describes the security architecture of the Sensei platform. It covers encryption, credential management, access control, audit logging, network segmentation, and compliance posture. Security is not a feature of Sensei; it is an architectural constraint that governs every subsystem.
 

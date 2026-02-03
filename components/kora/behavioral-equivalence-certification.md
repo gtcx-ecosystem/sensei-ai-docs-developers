@@ -1,6 +1,6 @@
 # Behavioral Equivalence Certification
 
-## Cryptographic Proof That Your Migration Worked
+## Cryptographic Migration Proof
 
 When all validation perspectives pass, KORA generates a Behavioral Equivalence Certificate — a cryptographically signed document that constitutes independent, tamper-proof evidence of migration correctness.
 

@@ -1,6 +1,6 @@
 # Change Management and User Adoption
 
-## Meeting Users Where They Are, Then Taking Them Further
+## Guiding Users Through Change
 
 AMANI employs progressive disclosure that adapts the complexity of its guidance to each user's demonstrated expertise. First-time users receive step-by-step walkthroughs. Experts receive concise, command-driven interaction. The system learns and adapts automatically.
 

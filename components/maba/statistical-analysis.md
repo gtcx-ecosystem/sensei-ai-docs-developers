@@ -1,6 +1,6 @@
 # Statistical Analysis
 
-## Phase 2: Profiling What the Data Looks Like
+## Data Profiling and Statistics
 
 Statistical analysis is the second phase of MABA's [Schema Analysis Engine](../../../product/platform/maba/ingestion-pipeline/schema-analysis.md). It computes a comprehensive statistical profile for every column in the source system, producing the [distributional fingerprints](distributional-fingerprinting.md) that power pattern library matching and guide semantic inference.
 

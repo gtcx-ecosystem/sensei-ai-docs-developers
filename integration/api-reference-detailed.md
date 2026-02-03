@@ -1,6 +1,6 @@
 # API Reference
 
-## Programmatic Control of the Sensei Platform
+## Sensei Platform API
 
 The Sensei REST API provides complete programmatic access to platform capabilities. Use it to embed migrations in your CI/CD pipelines, build custom dashboards, or integrate with your existing tooling.
 

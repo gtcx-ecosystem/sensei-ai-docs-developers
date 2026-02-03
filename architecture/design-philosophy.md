@@ -1,6 +1,6 @@
 # Design Philosophy
 
-## Foundational Principles of the Sensei Architecture
+## Foundational Design Principles
 
 This document describes the core architectural principles that govern the design of the Sensei platform. These principles are not aspirational; they are enforced through code review gates, automated architecture tests, and CI/CD policy checks. Every subsystem -- MABA, KORA, and AMANI -- is expected to conform to these constraints.
 

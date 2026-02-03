@@ -1,6 +1,6 @@
 # Regex Patterns
 
-## Common Patterns for Data Validation and Transformation
+## Validation and Transformation
 
 Reference patterns for use in custom validation rules and transformations.
 

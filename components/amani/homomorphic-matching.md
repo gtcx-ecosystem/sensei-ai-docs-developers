@@ -1,6 +1,6 @@
 # Homomorphic Pattern Matching
 
-## Searching Without Revealing What You're Looking For
+## Privacy-Preserving Search
 
 Homomorphic pattern matching is the third pillar of AMANI's [privacy-preserving learning](../../../product/platform/amani/privacy-preserving-learning.md). It enables the central knowledge base to find relevant patterns for a customer's migration without ever seeing what that migration looks like.
 

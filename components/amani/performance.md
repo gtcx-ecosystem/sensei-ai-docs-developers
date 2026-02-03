@@ -1,6 +1,6 @@
 # Performance
 
-## Response Latencies, Throughput, and Capacity
+## Latency, Throughput, and Capacity
 
 AMANI's performance varies by channel, language, and operation type. This page details what to expect and how the system scales.
 

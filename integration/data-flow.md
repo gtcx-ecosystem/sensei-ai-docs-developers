@@ -1,6 +1,6 @@
 # Data Flow
 
-## End-to-End Journey of Data Through Sensei
+## Data Journey Through Sensei
 
 This page traces the path of data from source system to target system, showing every transformation, validation, and checkpoint along the way.
 

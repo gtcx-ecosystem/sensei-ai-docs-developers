@@ -1,6 +1,6 @@
 # LLM Semantic Inference
 
-## When Statistics Aren't Enough, Language Models Reason
+## LLM-Powered Schema Reasoning
 
 LLM Semantic Inference is the second pillar of MABA's [Semantic Pattern Recognition](../../../product/platform/maba/ingestion-pipeline/semantic-pattern-recognition.md). For columns that can't be resolved by [distributional fingerprinting](distributional-fingerprinting.md) alone or [pattern library](../../../product/platform/maba/transformation-engine/pattern-library.md) matches, MABA uses frontier language models to reason about what data means.
 

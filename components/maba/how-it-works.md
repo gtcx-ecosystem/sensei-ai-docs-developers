@@ -1,6 +1,6 @@
 # How MABA Works
 
-## End-to-End: From Raw Data to Transformed Records
+## Raw Data to Transformed Records
 
 This page walks through MABA's complete pipeline — from connecting to a source system to producing validated, transformed records ready for the target.
 

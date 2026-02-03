@@ -1,6 +1,6 @@
 # How AMANI Works
 
-## End-to-End: From User Message to Agent Action to Response
+## Message to Action to Response
 
 This page walks through AMANI's complete communication flow — from receiving a user message to coordinating with agents to delivering a response across any channel.
 

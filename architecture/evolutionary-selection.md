@@ -1,6 +1,6 @@
 # Evolutionary Selection
 
-## Strategy Optimization Without Human Design
+## Automated Strategy Optimization
 
 Evolutionary Selection is the second Meta Agent function. While [Learning Agents](learning-agents.md) extract knowledge from individual migrations, Evolutionary Selection optimizes how that knowledge is applied — evolving migration strategies that improve with each generation.
 

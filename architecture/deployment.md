@@ -1,6 +1,6 @@
 # Deployment Architecture
 
-## Kubernetes-Native, Cloud-Agnostic, Edge-Ready
+## Cloud-Agnostic Deployment
 
 Sensei deploys as a three-tier Kubernetes application designed to run anywhere — managed cloud, private infrastructure, or air-gapped environments.
 

@@ -1,6 +1,6 @@
 # Differential Privacy
 
-## Mathematical Guarantees, Not Policy Promises
+## Mathematical Privacy Guarantees
 
 Differential privacy is the second pillar of AMANI's [privacy-preserving learning](../../../product/platform/amani/privacy-preserving-learning.md). It provides mathematical guarantees that no individual customer's participation in cross-migration learning can be detected or exploited by an adversary.
 

@@ -1,6 +1,6 @@
 # Learning Agents
 
-## Extracting Durable Intelligence from Every Migration
+## Durable Intelligence Extraction
 
 Learning Agents are the knowledge miners of the Meta Agent layer. After each migration, they analyze execution logs to extract patterns that make future migrations faster, more accurate, and more autonomous.
 

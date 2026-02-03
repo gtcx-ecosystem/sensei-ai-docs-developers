@@ -1,6 +1,6 @@
 # L3: Meta Agents
 
-## The Evolvers — Learning, Optimizing, Evolving
+## Learning, Optimizing, Evolving
 
 Meta Agents operate on the longest timescale. While Cognitive Agents think in minutes and Execution Agents act in milliseconds, Meta Agents learn over weeks and months — analyzing completed migrations to extract patterns, evolve strategies, and build the compound intelligence that makes Sensei increasingly powerful over time.
 

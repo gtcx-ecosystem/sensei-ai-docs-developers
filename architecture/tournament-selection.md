@@ -1,6 +1,6 @@
 # Evolutionary Tournament Selection
 
-## Strategies That Evolve Faster Than Engineers Can Design
+## Self-Evolving Migration Strategies
 
 Tournament selection is the third and slowest of Sensei's learning loops. It operates over weeks and months, evolving migration strategies through genetic algorithm principles — producing optimization approaches that emerge from empirical selection pressure rather than human design.
 

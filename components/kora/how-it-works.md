@@ -1,6 +1,6 @@
 # How KORA Works
 
-## End-to-End: From Source Snapshot to Behavioral Equivalence Certificate
+## Source to Verification Certificate
 
 This page walks through KORA's complete verification process — from pre-migration preparation through post-migration certification.
 

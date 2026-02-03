@@ -1,6 +1,6 @@
 # Privacy Budget Accounting
 
-## Tracking Every Bit of Information Disclosure
+## Information Disclosure Tracking
 
 Privacy budget accounting is the fourth pillar of AMANI's [privacy-preserving learning](../../../product/platform/amani/privacy-preserving-learning.md). It maintains a tamper-proof ledger of all information flows, ensuring that cumulative privacy guarantees are never exceeded.
 

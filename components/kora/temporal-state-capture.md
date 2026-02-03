@@ -1,6 +1,6 @@
 # Temporal State Capture
 
-## Recording the Source System's History Before It Disappears
+## Capturing Source History
 
 Temporal State Capture is the preparation phase of [Time-Travel Testing](../../../product/platform/kora/time-travel-testing.md). Before migration begins, KORA instruments the source system to record everything needed for post-migration behavioral verification.
 

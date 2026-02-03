@@ -1,6 +1,6 @@
 # Scout Agents
 
-## The Discovery Layer — Understanding What Exists Before Changing It
+## Understanding Before Changing
 
 Scout Agents are the first agents to engage with a migration. Before any data moves, Scouts analyze the source and target systems to build a complete understanding of what exists, what it means, and what could go wrong.
 

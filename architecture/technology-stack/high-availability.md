@@ -1,6 +1,6 @@
 # High Availability
 
-## Architectural Guarantees for Continuous Operation
+## Continuous Operation Guarantees
 
 This document describes the high availability architecture of the Sensei platform at the technology stack level. It covers multi-region deployment topology, failover mechanisms for each stateful component, health checking strategy, circuit breaker design, and graceful degradation behavior. For operational HA procedures (failover runbooks, DR drills), see [Deployment: High Availability](../../../operations/deployment/high-availability.md).
 

@@ -1,6 +1,6 @@
 # Agent Communication Protocol
 
-## How Agents Coordinate, Negotiate, and Learn Together
+## Agent Coordination Protocol
 
 Sensei's agents aren't isolated workers executing independent tasks. They're a coordinated swarm that communicates, shares discoveries, escalates problems, and collectively improves in real-time.
 

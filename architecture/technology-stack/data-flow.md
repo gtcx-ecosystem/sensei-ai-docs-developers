@@ -1,6 +1,6 @@
 # Data Flow
 
-## End-to-End Data Path Through the Sensei Pipeline
+## Data Path Through the Pipeline
 
 This document describes the complete data flow from source system connection through transformation, verification, and delivery to the target system. Each stage is defined by its inputs, outputs, and the guarantees it provides to downstream consumers.
 

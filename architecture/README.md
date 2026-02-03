@@ -1,6 +1,6 @@
 # Overview
 
-## Three Layers. Dozens of Agents. One Compound Intelligence.
+## Compound Intelligence Architecture
 
 Sensei organizes its AI agents into three hierarchical layers, each with distinct responsibilities, model requirements, and learning horizons.
 

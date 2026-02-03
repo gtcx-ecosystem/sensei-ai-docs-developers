@@ -1,6 +1,6 @@
 # Semantic Analysis
 
-## Phase 3: Understanding What the Data Means
+## Semantic Data Understanding
 
 Semantic analysis is the third and most innovative phase of MABA's [Schema Analysis Engine](../../../product/platform/maba/ingestion-pipeline/schema-analysis.md). It's where statistical fingerprints and structural metadata become **meaning** — enabling MABA to map source columns to target schemas based on what data represents, not just how it's stored.
 

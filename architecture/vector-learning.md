@@ -1,6 +1,6 @@
 # Cross-Migration Vector Learning
 
-## Starting Every Migration with the Wisdom of All Prior Migrations
+## Learning from Every Migration
 
 Vector learning is the second of Sensei's three learning loops. It operates across migrations, ensuring that patterns discovered during one customer's migration improve planning and execution for all future migrations with similar profiles.
 

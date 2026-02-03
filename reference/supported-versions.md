@@ -1,6 +1,6 @@
 # Supported Versions
 
-## Database and Platform Version Compatibility
+## Version Compatibility Matrix
 
 Reference for supported database versions and platform requirements.
 

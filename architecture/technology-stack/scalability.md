@@ -1,6 +1,6 @@
 # Scalability
 
-## Horizontal Scaling Strategy and Performance Characteristics
+## Scaling Strategy and Performance
 
 This document describes the scalability architecture of the Sensei platform: how each tier scales, the mechanisms that enable horizontal growth, and the performance characteristics operators should expect at various scale points.
 

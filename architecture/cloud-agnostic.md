@@ -1,6 +1,6 @@
 # Cloud-Agnostic Design
 
-## Run Anywhere — AWS, GCP, Azure, On-Premise, or Hybrid
+## Run Anywhere
 
 Sensei is designed to avoid cloud vendor lock-in. Every component has equivalents across major providers, and the platform abstracts cloud-specific services behind portable interfaces.
 

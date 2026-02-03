@@ -1,6 +1,6 @@
 # Transformation Code Generation
 
-## From Mapping to Executable Code — Automatically
+## Automated Code Generation
 
 Once MABA has determined the semantic mapping between source and target schemas, it generates the actual transformation code that converts data. Every transformation is produced in SQL and Python, unit-tested against sample data, and validated before inclusion in the migration plan.
 

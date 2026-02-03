@@ -1,6 +1,6 @@
 # Agent Communication
 
-## How Agents Discover, Share, and Learn in Real-Time
+## Real-Time Agent Communication
 
 Sensei's agents communicate through a combination of real-time messaging (Redis pub/sub), durable workflows (Temporal), and shared knowledge stores (vector and graph databases). This page explains the communication infrastructure that enables swarm intelligence.
 

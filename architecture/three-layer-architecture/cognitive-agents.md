@@ -1,6 +1,6 @@
 # L1: Cognitive Agents
 
-## The Thinkers — Understanding, Planning, Designing
+## Understanding, Planning, Designing
 
 Cognitive Agents serve as Sensei's reasoning layer. They perform the tasks that require genuine language understanding: reading schemas, inferring business logic, designing migration strategies, and writing transformation code.
 

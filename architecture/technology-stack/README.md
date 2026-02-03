@@ -4,7 +4,7 @@ icon: desktop-arrow-down
 
 # Technology Stack
 
-## Production-Ready Components, Novel Composition
+## Production-Ready Composition
 
 Every component in Sensei's stack is commercially available and production-tested. The innovation is not in individual technologies but in their composition — how they're wired together to produce compound migration intelligence.
 
